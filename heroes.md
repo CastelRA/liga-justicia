@@ -8,3 +8,5 @@
 * Robin
 * Sahazam
 * Redhood
+* Megaman
+
